@@ -1,0 +1,12 @@
+Package: geonames-city-data
+Source: newscoop
+Version: 2.5.1-1
+Architecture: all
+Maintainer: Daniel James <daniel@64studio.com>
+Installed-Size: 16268
+Section: web
+Priority: optional
+Homepage: http://www.sourcefabric.org/en/newscoop/
+Description: geonames.org data for city names and locations
+ This package contains city geolocation data which can be used with 
+ the Newscoop content management system from Sourcefabric.
